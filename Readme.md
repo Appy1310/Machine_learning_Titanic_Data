@@ -3,7 +3,6 @@
 
 ![](Output2.png)
 
-![](Output3.png)
 
 
 
